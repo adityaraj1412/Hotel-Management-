@@ -1,0 +1,10 @@
+body{
+    background-image: url('../HD-wallpaper-summer-vacation-architecture-house-sun-clouds-beach-sand-room-blue-hills-hotel-forest-ocean-sky-trees-daylight-water-summer-day-island-nature-white.jpg');
+    background-size: cover;
+    background-size: cover;
+    background-position: center center;
+
+    background-attachment: fixed;
+    /* background: url(background-photo.jpg) center center cover no-repeat fixed; */
+
+}
